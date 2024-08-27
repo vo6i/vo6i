@@ -14,8 +14,15 @@ $ dclxviclanpkg
 ```
 ![](https://github.com/vo6i/termux-package/blob/main/ZKJSdwQiRr_5tvqaGkp2JDq9PCtbV1tksXlS7uK01ne9ULMqhGtsAWmw-CzE87GoTdY1RtXjRkzSXXFnURMnUDs8.jpg)
 
--- maybe you look like --
+~~***maybe you look like**~~
 [🤡💭](https://youtu.be/yRb9BSH7CCU?si=1CvSTaU1xYkDu73G) 
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
 <!--
 **vo6i/vo6i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
