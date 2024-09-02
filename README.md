@@ -18,6 +18,26 @@ $ dclxviclanpkg
 # ~~***maybe you look like***~~
 [🤡💭](https://youtu.be/yRb9BSH7CCU?si=1CvSTaU1xYkDu73G) 
 
+## Appointment Telegram Bot 
+```
+git clone https://github.com/vo6i/Appointment-Telegram-Bot.git
+cd Appointment-Telegram-Bot
+pip install -r requirements.txt
+```
+## in main.py
+```
+bot = TeleBot('U BOT TOKEN')
+```
+## Run
+```
+python3 main.py 
+```
+
+# Python package
+```
+pip install dclxviclan
+```
+
 -
 - First item
 - Second item
