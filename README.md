@@ -1,5 +1,12 @@
 # Hi there 👋
 
+## Install console game with Pypi and play with simple import just one line of code
+```
+pip install wowsnake==298.666.1333
+
+import wowsnake
+```
+
 ## termux-package
 ### powerfull pkg for ***pintesting***
 
