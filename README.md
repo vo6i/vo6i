@@ -1,4 +1,5 @@
 # Hi there 👋
+![](https://github.com/vo6i/Matrix/blob/main/Screenshot_20241217-182500_1.jpg) 
 
 ## Install console game with Pypi and play with simple import just one line of code
 ```
@@ -15,6 +16,7 @@ git clone https://github.com/vo6i/termux-package.git
 cd termux-package
 apt install ./dclxviclanpkg.deb
 ```
+![](https://github.com/vo6i/Matrix/blob/main/Cg.png) 
 # After installation package run in ***termux***
 ```
 $ dclxviclanpkg
