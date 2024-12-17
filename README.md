@@ -7,7 +7,7 @@ pip install wowsnake==298.666.1333
 
 import wowsnake
 ```
-
+![](https://github.com/vo6i/Vodka-Zima/blob/main/Screenshot_20241215-114356_1.jpg) 
 ## termux-package
 ### powerfull pkg for ***pintesting***
 
