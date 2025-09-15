@@ -1,4 +1,15 @@
 # 💲Hi there 📳👋👁👄👁💬🍀🚸🧞‍♀️
+you can also like my games in other platforms
+👇💢❤👁👄👁👂💭🌌
+https://gamemonetize.com/clear-office-game
+https://gamemonetize.com/silent-fear-game
+https://gamemonetize.com/lost-bus-game
+https://gamemonetize.com/zombsmis-game
+
+https://www.y8.com/games/silent_fears_laststream
+
+Rate my game Clear Office   
+https://www.igdb.com/games/clear-office
 ![](https://github.com/vo6i/Matrix/blob/main/Screenshot_20241217-182500_1.jpg) 
 
 ## Install console game with Pypi and play with simple import just one line of code
